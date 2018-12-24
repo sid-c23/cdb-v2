@@ -1,0 +1,6 @@
+How to search
+
+Get all values from sqlite for clubs [DONE]
+
+make ngrams [DONE]
+
